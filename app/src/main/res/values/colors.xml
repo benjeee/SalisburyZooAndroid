@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8CC63E</color>
+    <color name="colorPrimaryDark">#649F16</color>
+    <color name="colorAccent">#D5C3A8</color>
+    <color name="zooGreen">#8CC63E</color>
+    <color name="zooPale">#D5C3A8</color>
+    <color name="zooGrey">#878787</color>
+    <color name="white">#FFFFFF</color>
+    <color name="zooBlue">#283890</color>
+    <color name="zooYellow">#DDE540</color>
+    <color name="zooBrown">#734021</color>
+    <color name="zooPurple">#5A45C4</color>
+</resources>
